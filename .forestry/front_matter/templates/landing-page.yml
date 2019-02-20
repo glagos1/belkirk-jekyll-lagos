@@ -32,6 +32,7 @@ fields:
   - type: text
     name: text
     label: Text
+    default: NOW YOU CAN
   - type: text
     name: href
     label: Link
