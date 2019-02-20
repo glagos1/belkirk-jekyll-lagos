@@ -14,10 +14,6 @@ fields:
   label: Hero Heading
   name: heading
   default: Belkirk College
-- type: text
-  name: sub_heading
-  label: Hero Sub heading
-  default: Engineering and Health Sciences
 - type: file
   name: banner_image
   label: Hero Image
@@ -25,6 +21,10 @@ fields:
   config:
     maxSize: '2'
   default: "/uploads/2019/02/20/santorini.png"
+- type: text
+  name: sub_heading
+  label: Hero Sub heading
+  default: Engineering and Health Sciences
 - type: field_group
   name: hero_button
   label: Hero Button
