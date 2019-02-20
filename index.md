@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/02/20/santorini.png"
 layout: landing-page
-heading: Belkirk College
+heading: STATIC SITE GENERATOR TEST
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,11 +16,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+sub_heading: GENERATE AND TEST NOW
+textline: LOREM OK.
 hero_button:
   text: Learn more
   href: "/about"
